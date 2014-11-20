@@ -1,0 +1,5 @@
+HOG/linSVM		N. Dalal and B. Triggs, ¡°Histograms of Oriented Gradients for Human Detection,¡± Proc. IEEE Int¡¯l Conf.Computer Vision and Pattern Recognition, pp. 886-893, 2005.
+Shape-texture-Based	D.M. Gavrila and S. Munder, ¡°Multi-Cue Pedestrian Detection and Tracking from a Moving Vehicle,¡± Int¡¯l J. Computer Vision, vol. 73, no. 1, pp. 41-59, 2007.
+Haar Wavelet-Based	P. Viola, M. Jones, and D. Snow, ¡°Detecting Pedestrians Using Patterns of Motion and Appearance,¡± Int¡¯l J. Computer Vision, vol. 63, no. 2, pp. 153-161, 2005.
+NN/LRF			C. Wo ¡§hler and J. Anlauf, ¡°An Adaptable Time-Delay Neural- Network Algorithm for Image Sequence Analysis,¡± IEEE Trans.Neural Networks, vol. 10, no. 6, pp. 1531-1536, Nov. 1999.
+

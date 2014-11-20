@@ -1,0 +1,17 @@
+我在这一周中所做的工作主要如下：
+1、配置环境：
+	包括Visual Studio2012的安装以及Opencv在Visual Studio2012上的编译安装
+
+2、学习opencv官网上的tutorials，了解opencv对图片的一些基本操作：
+	包括如何使用opencv读取图片、遍历图片数据、存储图片等
+
+3、使用opencv实现CodeBook算法
+	CodeBook算法是背景建模的其中一种方法，它较平均背景法的效果好，但缺点是消耗的内存较多。我选用的数据集是opencv自带samples里的一个视频，视频内容主要是被风吹动的树叶和从画面中划过的手。程序结果能将树叶和手这些前景从视频中分割出来。
+
+4、阅读关于Pedestrian Counting的论文
+	大致浏览《Monocular Pedestrian Detection Survey and Experiments》这篇survey，也浏览了一些国内的相关论文，对Pedestrian Counting的流程有了一个初步的认识。
+
+
+下周安排：
+	1、搜集一些可用的Dataset。
+	2、继续阅读论文，了解更多关于Pedestrian Counting的方法，并对自己毕业论文的实现初步确定方法流程。
