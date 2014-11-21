@@ -1,0 +1,2 @@
+Background Subtraction
+使用forward-backward方法，同时从开头->结尾、结尾->开头计算前景（或背景）
