@@ -6,3 +6,5 @@ Human detection
 Tracking evaluation
 Target detection
 Target tracking
+image sequence analysis
+human sensing
